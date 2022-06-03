@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DannyLemoo
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning JavaScript
